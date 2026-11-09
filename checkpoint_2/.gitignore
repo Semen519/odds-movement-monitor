@@ -1,0 +1,10 @@
+# ключ API
+.env
+
+# Python и Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# macOS
+.DS_Store
